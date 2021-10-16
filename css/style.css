@@ -13,6 +13,7 @@
 /* Screens */
 @import "screens/login.css";
 @import "screens/friends.css";
+@import "screens/find.css";
 
 body {
   color: #2e363e;
@@ -22,3 +23,6 @@ body {
 .main-screen {
   padding: 0px var(--horizontal-space);
 }
+
+/* chats에서 user컴포넌트 여러개 만들기. 아마 컴포넌트 끼리 붙으니 띄어야함.*/
+/* nav에서 find에 dot붙이고, 위에 톱니에도 dot붙이기 */
