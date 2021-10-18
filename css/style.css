@@ -30,6 +30,3 @@ body {
 .main-screen {
   padding: 0px var(--horizontal-space);
 }
-
-/* nav에서 find에 dot붙이고, 위에 톱니에도 dot붙이기 */
-/*그레이컬러변수 만들기 rgba(0, 0, 0, 0.5); */
