@@ -1,6 +1,7 @@
 .icon-row {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 40px;
 }
 
 .icon-row__icon {
@@ -15,4 +16,13 @@
 
 .icon-row__icon span {
   margin-top: 18px;
+}
+
+.icon-row__icon:nth-child(2) {
+  position: relative;
+}
+
+.icon-row__icon--openchat {
+  position: relative;
+  right: 40px;
 }
