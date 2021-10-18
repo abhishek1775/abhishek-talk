@@ -1,7 +1,11 @@
+#index {
+  background-color: white;
+}
+
 .background-img {
   width: 100vw;
   height: 100vh;
-  opacity: 0.2;
+  opacity: 0.4;
   position: fixed;
   z-index: -1;
 }
