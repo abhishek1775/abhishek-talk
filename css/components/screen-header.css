@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: var(--horizontal-space);
+  padding: 40px var(--horizontal-space) 15px var(--horizontal-space);
   margin-bottom: 15px;
 }
 
@@ -34,4 +34,8 @@
 
 .screen-header__icons span:nth-child(2) .fa-heart {
   color: orange;
+}
+
+.screen-header__icons span:nth-child(3) .fa-heart {
+  color: green;
 }
